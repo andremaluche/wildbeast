@@ -102,7 +102,7 @@ img {
 
 @media (max-width: 760px) {
   .header {
-    grid-template-columns: 1fr;
+    grid-template-columns: auto;
     justify-items: center;
   }
 
